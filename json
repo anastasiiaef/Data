@@ -5,20 +5,32 @@
       {
         "id": 1,
         "name": "Apple",
-        "description": "1 apple(182g)",
-        "calories": 52
+        "description": "Red",
+        "calories": 3.2
+      },
+      {
+        "id": 1,
+        "name": "Apple",
+        "description": "Green",
+        "calories": 3.4
       },
       {
         "id": 2,
         "name": "Milk",
-        "description": "100g 1% fat",
-        "calories": 42
+        "description": "Whole",
+        "calories": 2.55
+      },
+      {
+        "id": 2,
+        "name": "Milk",
+        "description": "Skinny",
+        "calories": 3.5
       },
       {
         "id": 3,
         "name": "Egg",
-        "description": "1 egg",
-        "calories": 155
+        "description": "Whole",
+        "calories": 5.55
       },
       {
         "id": 4,
