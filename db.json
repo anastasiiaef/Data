@@ -4,69 +4,69 @@
     "item": [
       {
         "id": 1,
-        "name": "Apple Red",
-        "price": "3.2",
-        "amount": ""
+        "name": "Apple",
+        "description": "Red",
+        "calories": 3.2
       },
       {
         "id": 2,
-        "name": "Apple Green",
-        "price": "3.4",
-        "amount": ""
+        "name": "Apple",
+        "description": "Green",
+        "calories": 3.4
       },
       {
         "id": 3,
-        "name": "Apple Honey",
-        "price": "4.5",
-        "amount": ""
+        "name": "Apple",
+        "description": "Honey",
+        "calories": 4.3
       },
       {
         "id": 4,
-        "name": "Milk Whole",
-        "price": "2.55",
-        "amount": ""
+        "name": "Milk",
+        "description": "Whole",
+        "calories": 2.55
       },
       {
         "id": 5,
-        "name": "Milk Skinny",
-        "price": "3.5",
-        "amount": ""
+        "name": "Milk",
+        "description": "Skinny",
+        "calories": 3.5
       },
       {
         "id": 6,
-        "name": "Milk 2,5%",
-        "price": "5.54",
-        "amount": ""
+        "name": "Egg",
+        "description": "Whole",
+        "calories": 5.55
       },
       {
         "id": 7,
         "name": "Banana",
-        "price": "1 banana",
-        "amount": ""
+        "description": "1 banana",
+        "calories": 90
       },
       {
         "id": 8,
         "name": "Orange",
-        "price": "1 orange",
-        "amount": ""
+        "description": "1 orange",
+        "calories": 47
       },
       {
         "id": 9,
         "name": "Acai",
-        "price": "1 oz.(28g)",
-        "amount": ""
+        "description": "1 oz.(28g)",
+        "calories": 20
       },
       {
         "id": 10,
         "name": "Beans",
-        "price": "10g",
-        "amount": ""
+        "description": "10g",
+        "calories": 347
       },
     {
       "id": 11,
       "name": "Avocado",
-      "price": "1 avocado",
-      "amount": ""
+      "description": "1 avocado",
+      "calories": 240
     }
   ]
 }
