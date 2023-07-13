@@ -4,69 +4,69 @@
     "item": [
       {
         "id": 1,
-        "name": "Apple",
-        "description": "Red",
-        "calories": 3.2
-      },
-      {
-        "id": 1,
-        "name": "Apple",
-        "description": "Green",
-        "calories": 3.4
-      },
-      {
-        "id": 1,
-        "name": "Apple",
-        "description": "Honey",
-        "calories": 4.1
+        "name": "Apple Red",
+        "price": "3.2",
+        "amount": ""
       },
       {
         "id": 2,
-        "name": "Milk",
-        "description": "Whole",
-        "calories": 2.55
-      },
-      {
-        "id": 2,
-        "name": "Milk",
-        "description": "Skinny",
-        "calories": 3.5
+        "name": "Apple Green",
+        "price": "3.4",
+        "amount": ""
       },
       {
         "id": 3,
-        "name": "Egg",
-        "description": "Whole",
-        "calories": 5.55
+        "name": "Apple Honey",
+        "price": "4.5",
+        "amount": ""
       },
       {
         "id": 4,
-        "name": "Banana",
-        "description": "1 banana",
-        "calories": 90
+        "name": "Milk Whole",
+        "price": "2.55",
+        "amount": ""
       },
       {
         "id": 5,
-        "name": "Orange",
-        "description": "1 orange",
-        "calories": 47
+        "name": "Milk Skinny",
+        "price": "3.5",
+        "amount": ""
       },
       {
         "id": 6,
-        "name": "Acai",
-        "description": "1 oz.(28g)",
-        "calories": 20
+        "name": "Milk 2,5%",
+        "price": "5.54",
+        "amount": ""
       },
       {
         "id": 7,
+        "name": "Banana",
+        "price": "1 banana",
+        "amount": ""
+      },
+      {
+        "id": 8,
+        "name": "Orange",
+        "price": "1 orange",
+        "amount": ""
+      },
+      {
+        "id": 9,
+        "name": "Acai",
+        "price": "1 oz.(28g)",
+        "amount": ""
+      },
+      {
+        "id": 10,
         "name": "Beans",
-        "description": "10g",
-        "calories": 347
+        "price": "10g",
+        "amount": ""
       },
     {
-      "id": 8,
+      "id": 11,
       "name": "Avocado",
-      "description": "1 avocado",
-      "calories": 240
+      "price": "1 avocado",
+      "amount": ""
     }
   ]
 }
